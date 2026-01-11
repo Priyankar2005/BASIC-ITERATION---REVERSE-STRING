@@ -1,3 +1,4 @@
+USING WHILE LOOP
 <img width="597" height="378" alt="Screenshot 2026-01-11 144235" src="https://github.com/user-attachments/assets/80f1fbe9-22f5-4827-85b0-14bb10452dc3" />
 <img width="629" height="128" alt="Screenshot 2026-01-11 144243" src="https://github.com/user-attachments/assets/8c06e472-1bff-497e-93e4-7ca59372a142" />
 <img width="658" height="391" alt="Screenshot 2026-01-11 144329" src="https://github.com/user-attachments/assets/e10b6cb5-2d60-4f4c-8277-c214cdad4ec3" />
